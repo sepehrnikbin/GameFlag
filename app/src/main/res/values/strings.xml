@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GameFlag</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_setting_">Settings</string>
+    <string name="number_of_choice">Number of Choices</string>
+    <string name="number_of_choieces_discription">display 2, 4, 6 or 8 Button</string>
+    <string name="word_regions">regions</string>
+    <string name="word_regions_discription">region to includein the quiz</string>
+    <string name="guess_country">guess the country</string>
+    <string name="result">%1$d guesses , %2$.02f%% correct</string>
+    <string name="incorrect_answer">incorrect !</string>
+    <string name="default_region_massage">one region must be selectet. Setting north america as the defual region.</string>
+    <string name="restarting_quiz">quiz will start with your new settings.</string>
+    <string name="question">question %1$d of %2$d</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="image_description">image of correct flag in the quiz</string>
+    <string name="defualt_region">North America</string>
+</resources>
